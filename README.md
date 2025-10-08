@@ -15,3 +15,8 @@ A GUI-based simulation of the Windows file system built with Python and Tkinter.
 ```bash
 python project.py
 # make sure to use username and password "sirak" and "admin" respectively 
+## Author
+Sirak Kbrom Teklehaimanot  
+Computer Science student at Mekelle University (MIT)  
+GitHub: [sirak-kb](https://github.com/sirak-kb)
+
